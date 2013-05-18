@@ -1,0 +1,10 @@
+[user]
+	name = James Lyden
+	email = james@lyden.org
+[merge]
+	tool = vimdiff
+[core]
+	excludesfile = /home/james/.gitignore-global
+	trustctime = true
+[alias]
+	visualize = log --oneline --abbrev-commit --all --graph --decorate --color
