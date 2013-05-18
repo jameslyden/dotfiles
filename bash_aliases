@@ -1,9 +1,10 @@
 # git aliases
 alias gadd='git add'
-alias gcommit='git commit'
-alias gfetch='git fetch'
+alias gcom='git commit'
 alias gpush='git push'
-alias gstatus='git status'
+alias gpull='git pull'
+alias gbr='git branch'
+alias gstat='git status'
 alias gvis='git visualize'
 alias gdiff='git diff'
 
