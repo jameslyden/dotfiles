@@ -13,3 +13,4 @@ git clone  git://github.com/tpope/vim-sensible.git vim/bundle/vim-sensible
 git clone  git://github.com/tpope/vim-commentary.git vim/bundle/vim-commentary
 git clone  git://github.com/tpope/vim-fugitive.git vim/bundle/vim-fugitive
 git clone  git://github.com/jameslyden/vim-processing.git vim/bundle/processing
+git clone  git://github.com/puppetlabs/puppet-syntax-vim.git vim/bundle/vim-puppet
